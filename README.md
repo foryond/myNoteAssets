@@ -1,0 +1,2 @@
+# myNoteAssets
+note assets
